@@ -14,7 +14,10 @@ Passionate **DevOps Engineer** with hands-on experience in **cloud infrastructur
 - **Linux Administration:** Ubuntu, CentOS, Red Hat
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyewoledavid&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyewoledavid&show_icons=true&theme=dark&count_private=true&cache_seconds=1800
+)
+
+
 
 ### 🌍 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/david-oyewole-54827623a)
